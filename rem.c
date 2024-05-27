@@ -2,7 +2,11 @@
 int main()
 {
   int i;  
-    printf("hello world\n");
-
+  for(i=0; i<=10; i++)
+  {
+    printf("increment of i is %d");
+    scanf("%d",&i);
+  }
+    
     return 0;
 }
