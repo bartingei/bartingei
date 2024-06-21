@@ -1,28 +1,22 @@
-
-
+/*bartingei.c*/
 #include<stdio.h>
-#include<stdlib.h>
-int main ()
+int main()
 {
-    int userguess, randomnumber;
+    char color[20];
+    char pluralnoun[20];
+    char celebrity[20];
 
-    srand(time(NULL)); //seed the random number generator
-    randomnumber = rand()  % 20 + 1; //this generates a random number between 1 and 20
+    printf("enter any color\n");
+    scanf("%s", &color);
+    printf("Enter a pluralnoun\n");
+    scanf("%s", &pluralnoun);
+    printf("Enter a celebrity\n");
+    scanf("%s", &celebrity);
 
-    printf("guess a number between 1 and 20\n");
-    scanf("%d", &userguess);
-
-    printf("the randomly generated number is %d\n", randomnumber);
-
-    if(userguess == randomnumber)
-    {
-        printf("congratulations! You won!");
-    }
-
-    else if(userguess != randomnumber)
-    {
-        printf("You lost!");
-    }
-
-    return 0;
+    
+    printf("roses are  %s\n",color);
+    printf("%s are blue\n",pluralnoun);
+    printf("you know that i love %s\n",celebrity);
+    
+    return 0;   
 }
