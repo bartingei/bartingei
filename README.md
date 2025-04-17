@@ -1,16 +1,5 @@
-- 👋 Hi, I’m @bartingei<br>
-- 
-- 🌱 🧑‍🎓 Software Engineering student<br>
-- 👀 I’m interested in coding and willing to learn more skills<br>
-- 🔥Web design student at Skills Build<br>
-- code💻 and gaming 🎮 enthusiast<br>
-- 💞️ I’m looking to collaborate on projects.<br>
-- 📫 How to reach me  johnpaulkibet3@gmail.com<br>
-- 🤙contact me on instagram 👀 [https://www.instagram.com/toxic.toks?igsh=ZmY5bHAyOGYycmFs](https://www.instagram.com/toxic.toks/)
-
 # 💫 About Me:
 - 👋 Hi, I’m @bartingei<br><br>- <br>- 🌱 🧑‍🎓 Software Engineering student<br><br>- 👀 I’m interested in coding and willing to learn more skills<br><br>- 🔥Web design student at Skills Build<br><br>- code💻 and gaming 🎮 enthusiast<br><br>- 💞️ I’m looking to collaborate on projects.<br><br>- 📫 How to reach me  johnpaulkibet3@gmail.com<br><br>- 🤙contact me on instagram 👀 [https://www.instagram.com/toxic.toks?igsh=ZmY5bHAyOGYycmFs](https://www.instagram.com/toxic.toks/)<br><br><br><br><br><br><br>
-
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/bartingei) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/toxic.toks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnpaulkibet) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toxic.toks) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnpaulkibet3@gmail.com) 
